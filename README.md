@@ -6,7 +6,9 @@ This project aims to classify life expectancy into categories (Low, Medium, High
 
 **Algorithms**
 1. Support vector machines (SVM)
-2. Another algorithms will be added soon :)
+2. TwinSVM
+3. Decision Tree and Random Forest
+4. Bagging and Boosting
 
 **Dataset**
 The dataset, sourced from the World Health Organization (WHO), contains features such as adult mortality, GDP, healthcare expenditure, and immunization rates. 
